@@ -10,3 +10,6 @@ url: "http://photos.blakkan.net" #the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+exclude: ["vendor"]
+
