@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Here are the old photos.   I formerly wrote the site in HTML using dreamweaver.
 
-I've since switched over to jekyll to generate this site.
+I've since switched over to jekyll to generate the site from markdown files.
   
   
   
@@ -16,6 +16,9 @@ At Poolside
 
 Freshly poached figs, about to be cut and dried  
 ![Green figs on a white cutting board](/images/figs_poached.png)
+
+What they look like after drying  
+![Dried figs a white cutting board](/images/dried_figs.png)
 
 California Poppies in California's Antalope Valley California Poppy Reserve  
 ![Bright orange poppys](/images/CaliforniaPoppy.gif)
