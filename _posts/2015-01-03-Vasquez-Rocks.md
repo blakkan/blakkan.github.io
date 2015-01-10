@@ -8,9 +8,9 @@ Brief stop at Los Angeles County's Vasquez Rocks park while driving home from th
 
 
 One of the two largest outcroppings  
-![Rocky outcropping](/images/vasquez_rocks1.png)
+![Rocky outcropping](/images/vasquez_rocks1.png){: .dropshadow }
 
 The most iconic image of the rocks.  Note the person sitting on the rock (lower right) for scale.  
-![Rocky outcropping](/images/vasquez_rocks2.png)
+![Rocky outcropping](/images/vasquez_rocks2.png){: .dropshadow }
 
 

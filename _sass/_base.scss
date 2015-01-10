@@ -46,6 +46,12 @@ img {
 }
 
 
+img.dropshadow {
+    -webkit-box-shadow: 4px 4px 2px rgba(20,20,20,0.40);
+    -moz-box-shadow: 4px 4px 2px rgba(20,20,20,0.40);
+    -o-box-shadow: 4px 4px 2px rgba(20,20,20,0.40);
+    box-shadow: 4px 4px 2px rgba(20,20,20,0.40);
+}
 
 /**
  * Figures
