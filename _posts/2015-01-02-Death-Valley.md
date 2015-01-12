@@ -38,6 +38,6 @@ And these
 ![Death Valley Scene](/images/Cliffside.png){: .dropshadow }  
 
 Some of the most spectacular colors are seen in the "Artists Drive" loop road in the park  
-![Death Valley Scene](/images/ArtistDrive.png)
+![Death Valley Scene](/images/ArtistDrive.png){: .dropshadow }
 
 
