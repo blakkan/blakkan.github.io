@@ -4,10 +4,10 @@ title:  "Santa Cruz Beach"
 date:   2015-01-24 20:51:22
 categories: jekyll update
 ---
-Trying out the new camera on a sunny day in Santa Cruz  
+Trying out the new camera on a sunny day in Santa Cruz.  
 
 
-Not a lot of wind that day, but a few boats were on the water  
+Not a lot of wind that day, but a few boats were on the water.  
 ![Sailboat](/images/Sailboat.png){: .dropshadow }
 
 Some images of the seagulls in flight  

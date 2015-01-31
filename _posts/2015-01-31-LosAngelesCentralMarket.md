@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Los Angeles Central Market"
+date:   2015-01-31 20:51:22
+categories: jekyll update
+---
+The Los Angeles Central Market (351 Hill street, but goes through the entire block) dates from 1917.  An interesting old-time market, now with various trendy food stalls.  
+
+
+West side entrance.  Note the "Knit-Bombed" interior columns.  
+
+![Market Entrance](/images/los_angeles_central_market/market_scenes/market_entrance.png){: .dropshadow }  
+
+Coffee bar just inside.  Nice selection, some unusual items.  
+
+![Market Coffee Bar](/images/los_angeles_central_market/market_scenes/coffee_bar.png){: .dropshadow }  
+
+Interior views.  
+
+![Hallway](/images/los_angeles_central_market/market_scenes/hallway2.png){: .dropshadow }  
+
+![Hallway](/images/los_angeles_central_market/market_scenes/hallway3.png){: .dropshadow }  
+
+![Hallway](/images/los_angeles_central_market/market_scenes/hallway4.png){: .dropshadow }  
+
+![Menu board](/images/los_angeles_central_market/market_scenes/sandwich_board.png){: .dropshadow }  
+
+![Hallway](/images/los_angeles_central_market/market_scenes/hallway1.png){: .dropshadow }  
+
+![Two Diners](/images/los_angeles_central_market/market_scenes/johanna_and_stephanie.png){: .dropshadow }  
+
+In addition to the restaurants, it's still a working market:  
+
+![Food for sale](/images/los_angeles_central_market/market_food/bannanas.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_food/cheese.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_food/fruit_counter_end.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_food/fruit_rainbow.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_food/potatoes.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_food/red_onions.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_food/white_onions.png){: .dropshadow }  
+
+There are a lot of interesting retro neon signs advertizing the various stalls:  
+
+![Food for sale](/images/los_angeles_central_market/market_signs/china_cafe.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_signs/discount.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_signs/jose.png){: .dropshadow }  
+
+![Food for sale](/images/los_angeles_central_market/market_signs/pick_up.png){: .dropshadow }  
+
+
