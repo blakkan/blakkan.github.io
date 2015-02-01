@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-John and Stephanie's photo blog.
+A collection of miscellaneous photos and random observations, mostly about travel experiences.
 
