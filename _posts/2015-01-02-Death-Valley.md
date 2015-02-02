@@ -15,7 +15,7 @@ Here is the famous *Devil's Hole*, only home of the highly endangered Devil's Ho
 There are more Mesquite trees than Ash trees visible from the boardwalk, and most of them carry a heavy crop of mistletoe.  (Looking quite dead or dormant this time of year).
 ![Mistletoe on branch](/images/death_valley/TreeWithMistletoe.png){: .dropshadow }  
 
-A closer view of mistletoe.   Notice the white berries in the very center; these are spread from tree to tree by birds.
+A closer view of mistletoe.   Notice the white berries in the very center; these are spread from tree to tree by birds.  
 ![Closeup of mistletoe](/images/death_valley/Mistletoe2.png){: .dropshadow }  
 
 Then into Death Valley proper.  A spectacular view can be had from the *Dante's View* lookout.  It's a steep drive, but your reward is a vista of the entire valley.  
