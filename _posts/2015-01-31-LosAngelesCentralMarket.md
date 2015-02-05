@@ -4,7 +4,7 @@ title:  "Los Angeles Central Market"
 date:   2015-01-31 20:51:22
 categories: jekyll update
 ---
-The [Los Angeles Grand Central Market](http://www.grandcentralmarket.com) dates from 1917.  It's at 317 South Broadway, but goes through the entire block and opens onto Hill street.  It now houses various trendy food stalls.  A good place for lunch, also some interesting surroundings.  Across Hill street is Los Angeles' one-block-long cable car system "Angel's Flight."   (Not currently operating)  Broadway is the [Bradbury Building](https://www.laconservancy.org/locations/bradbury-building), famous for its age (opened in 1893) and the many TV shows and motion pictures filmed there.  Next to the Bradbury is Ross Cutlery, home to a fine selection of cutting tools of every kind - cooking, shaving, seamanship, jungle exploration, etc.  (Plus an impressive selection of harmonicas.)  
+The [Los Angeles Grand Central Market](http://www.grandcentralmarket.com) dates from 1917.  It's at 317 South Broadway, but goes through the entire block and opens onto Hill street.  It now houses various trendy food stalls.  A good place for lunch, also some interesting surroundings.  Across Hill street is Los Angeles' one-block-long cable car system "Angel's Flight."   (Not currently operating) Aross Broadway is the [Bradbury Building](https://www.laconservancy.org/locations/bradbury-building), famous for its age (opened in 1893) and the many TV shows and motion pictures filmed there.  Next to the Bradbury is Ross Cutlery, home to a fine selection of cutting tools of every kind - cooking, shaving, seamanship, jungle exploration, etc.  (Plus an impressive selection of harmonicas.)  
 
 
 Hill street entrance.  Note the "Knit-Bombed" interior columns.  

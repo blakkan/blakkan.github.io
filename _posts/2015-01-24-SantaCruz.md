@@ -4,7 +4,7 @@ title:  "Santa Cruz Beach"
 date:   2015-01-24 20:51:22
 categories: jekyll update
 ---
-Trying out the new camera on a sunny day, while hanging out with our friend Michael at Cafe El Palomar in Santa Cruz.  
+Trying out the new camera on a sunny day, while hanging out with a friend at Cafe El Palomar in Santa Cruz.  Nice beach, good tacos.  
 
 
 Not a lot of wind that day, but a few boats were on the water.  
