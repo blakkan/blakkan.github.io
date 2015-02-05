@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 Trip to Death Valley over New Year's weekend, 2015.  First stop: The Ash Medows wildlife area.  
 
-Ash medows is east of Death Valley.  Although a dry, alkali flat, there is water below the surface.  Hot springs feed small streams, which are the habitat of small desert pupfish.  
+Ash meadows is an alkali flat east of Death Valley.  Hot springs feed small streams, which are the habitat of small desert pupfish.  
 ![Blue spring in the desert](/images/death_valley/AshMedowsSpring.png){: .dropshadow }  
 
-Here is the famous *Devil's Hole*, only home of the highly endangered Devil's Hole Pupfish.  The instruments visible at one end of the pool are for remote monitoring of the water level and other conditions in the pool.  This photo is taken from a public-access viewing bridge over the hole, which is perhaps fourty feet above the water level.  
+Here is the famous *Devil's Hole*, only home of the highly endangered Devil's Hole Pupfish.  The instruments visible at one end of the pool are for remote monitoring of the water level in the pool.  This photo is taken from a public-access viewing bridge over the hole, which is perhaps fourty feet above the water level.  
 ![Dark water at the bottom of a rock chasm](/images/death_valley/DevilsHole.png){: .dropshadow }  
 
 There are more Mesquite trees than Ash trees visible from the boardwalk, and most of them carry a heavy crop of mistletoe.  (Looking quite dead or dormant this time of year).
@@ -24,7 +24,7 @@ Then into Death Valley proper.  A spectacular view can be had from the *Dante's 
 Stephanie taking some shots from Dante's View  
 ![Stephanie shooting photos](/images/death_valley/StephanieWithCamera.png){: .dropshadow }
 
-There are lots of things to see in the valley- old mining operations, salt flats, sand dunes, etc.  But Death Valley is really about the rocks.   Lots and lots of rocks.  If you like rocks, this is your place.  (But take note:  January and February are among the better months to visit.  It has reached 134F in the summertime.)  
+There are lots of things to see in the valley- old mining operations, salt flats, sand dunes, etc.  But Death Valley is really about the rocks.   Lots and lots of rocks.  If you like rocks, this is your place.  (But take note:  January and February the best months to visit.  It has reached 134F in the summertime.)  
 
 ![Death Valley Scene](/images/death_valley/DeathValley4.png){: .dropshadow }  
 

@@ -4,11 +4,7 @@ title:  "Legacy photos from the old Blog"
 date:   2015-01-01 20:16:20
 categories: jekyll update
 ---
-Here are the old photos.   I formerly wrote the site in HTML using dreamweaver.
-
-I've since switched over to jekyll to generate the site from markdown files.
-  
-  
+Miscellaneous pre-2015 photos.
   
 
 At Poolside  
