@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Los Angeles Central Market"
+title:  "Los Angeles Grand Central Market"
 date:   2015-01-31 20:51:22
 categories: jekyll update
 ---
@@ -51,12 +51,17 @@ In addition to the restaurants, it's still a working market:
 
 Neon signs advertising the various stalls:  
 
-![Food for sale](/images/los_angeles_central_market/market_signs/china_cafe.png){: .dropshadow }  
+![Neon sign](/images/los_angeles_central_market/market_signs/china_cafe.png){: .dropshadow }  
 
-![Food for sale](/images/los_angeles_central_market/market_signs/discount.png){: .dropshadow }  
+![Neon sign](/images/los_angeles_central_market/market_signs/discount.png){: .dropshadow }  
 
-![Food for sale](/images/los_angeles_central_market/market_signs/jose.png){: .dropshadow }  
+![Neon sign](/images/los_angeles_central_market/market_signs/jose.png){: .dropshadow }  
 
-![Food for sale](/images/los_angeles_central_market/market_signs/pick_up.png){: .dropshadow }  
+![Neon sign](/images/los_angeles_central_market/market_signs/belcampo.png){: .dropshadow }  
 
+![Neon sign](/images/los_angeles_central_market/market_signs/casa_verde.png){: .dropshadow }  
+
+![Neon sign](/images/los_angeles_central_market/market_signs/salvador.png){: .dropshadow }  
+
+![Neon sign](/images/los_angeles_central_market/market_signs/pick_up.png){: .dropshadow }  
 
