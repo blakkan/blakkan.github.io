@@ -28,13 +28,13 @@ We passed on the hot dogs, had tacos instead.
 
 ![Fried potato snack](/images/los_angeles_santee_alley/potato_curls.png){: .dropshadow }  
 
-Everybody's getting into the hot dog business...
+Another hot dog truck, with an eye-catching name.
 
 ![Food vendor](/images/los_angeles_santee_alley/hot_dog_truck_2.png){: .dropshadow }  
 
 ![Bolts of fabric on sidewalk](/images/los_angeles_santee_alley/fabric.png){: .dropshadow }  
 
-Lots of bootleg DVDs on offer.   These were of various movies still in theaters.
+Lots of bootleg DVDs on offer for $5 each.   These were of movies still in theaters.
 
 ![Sidewalk seller](/images/los_angeles_santee_alley/dvds_for_sale.png){: .dropshadow }  
 
