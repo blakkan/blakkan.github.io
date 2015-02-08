@@ -49,7 +49,7 @@ A sunny day
 With the cats  
 ![A couple, each holding a cat, near a Christmas tree](/images/legacy/TreeAndCats.gif){: .dropshadow }
 
-Was I looking forward to this meal?  Why yes, yes I was. (Photo taken by Pei)  
+Was I looking forward to this meal?  Why yes, yes I was. (Photo taken by Pey)  
 ![A smiling man holds plate of food](/images/legacy/EnjoyableDinner.gif){: .dropshadow }
 
 SCUBA!  
