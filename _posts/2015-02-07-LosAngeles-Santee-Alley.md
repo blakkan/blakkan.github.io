@@ -4,7 +4,7 @@ title:  "Los Angeles Santee Alley"
 date:   2015-02-07 10:55:30
 categories: jekyll update
 ---
-Santee Alley is in Los Angeles' fashion district.  Crowded stalls offer everything imaginable (and a few things I never would have imagined).  
+Santee Alley is in Los Angeles' Fashion District.  Crowded stalls offer everything imaginable (and a few things I never would have imagined).  
 
 ![Crowded market](/images/los_angeles_santee_alley/santee_alley_2.png){: .dropshadow }  
 
@@ -32,15 +32,17 @@ Another hot dog truck, with an eye-catching name.
 
 ![Food vendor](/images/los_angeles_santee_alley/hot_dog_truck_2.png){: .dropshadow }  
 
+Some people refer to this part of LA as the "Fabric District," rather than the "Fashion District."   In the area around 7th and Maple there are more sellers of fabric and craft supplies than clothing.
+
 ![Bolts of fabric on sidewalk](/images/los_angeles_santee_alley/fabric.png){: .dropshadow }  
-
-Lots of bootleg DVDs on offer for $5 each.   These were of movies still in theaters.
-
-![Sidewalk seller](/images/los_angeles_santee_alley/dvds_for_sale.png){: .dropshadow }  
 
 ![Fabric for sale](/images/los_angeles_santee_alley/shopping_1.png){: .dropshadow }  
 
 ![Fabric for sale](/images/los_angeles_santee_alley/shopping_2.png){: .dropshadow }  
+
+Lots of bootleg DVDs on offer for $5 each.   These were of movies still in theaters.
+
+![Sidewalk seller](/images/los_angeles_santee_alley/dvds_for_sale.png){: .dropshadow }  
 
 ![Dolls on display](/images/los_angeles_santee_alley/dolls.png){: .dropshadow }  
 

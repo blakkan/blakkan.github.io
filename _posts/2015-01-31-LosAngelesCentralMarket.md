@@ -11,6 +11,9 @@ Hill street entrance.  Note the "Knit-Bombed" interior columns.
 
 ![Market Entrance](/images/los_angeles_central_market/market_scenes/market_entrance.png){: .dropshadow }  
   
+Detail of Ionian column:  
+
+![Column Detail](/images/los_angeles_central_market/market_scenes/ionian_detail.png){: .dropshadow }  
 
 Coffee bar just inside from Hill street.  Nice selection, some unusual items.  Try the *Business and Pleasure*, a half serving of espresso served with a latte and a mildly hop-infused fizzy-tea chaser.  
 
