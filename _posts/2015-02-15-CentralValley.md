@@ -32,6 +32,10 @@ The bee boxes (for polination) had been distributed to the orchards.
 
 ![Beehives amid almond trees](/images/central_valley_spring/almonds_b.png){: .dropshadow }  
 
+A closer look.  
+
+![Pallet of behives under a tree](/images/central_valley_spring/almonds_b_close.png){: .dropshadow }  
+
 And just the other side of an electric fence, this year's lambs:  
 
 ![Sheep and lambs grazing](/images/central_valley_spring/sheep1.png){: .dropshadow }  
