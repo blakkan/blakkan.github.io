@@ -12,6 +12,12 @@ Just a temporary entry, testing video from the phone.
 Your browser does not support the video tag.
 </video>  
 
+<video width="640" height="360" poster="/video/ollie.png" controls>
+  <source src="/video/ollie.mp4" type="video/mp4">
+  <source src="/video/ollie.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>  
+
 
 
 
