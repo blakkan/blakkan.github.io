@@ -14,7 +14,7 @@ And an F-14 Tomcat:
 
 ![Jet fighter on display](/images/missle_park/F-14.png){: .dropshadow }  
 
-After World War II, the US made copies of the German V-1 buzz bomb, renaming it "Loon".  
+After World War II, the US made copies of the German V-1 buzz bomb, renaming it "Loon."  
 
 ![Cruise Missle](/images/missle_park/loon.png){: .dropshadow }  
 
