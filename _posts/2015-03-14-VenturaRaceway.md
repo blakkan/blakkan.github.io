@@ -58,7 +58,7 @@ Another low-cost way to race is in the Hobby Stock class.   These are stock cars
 
 Finally, there's the thunderous roar of the "Modifieds."   These are big V-8 powered behemoths.  They may have started life as a street-legal car, but they've been modified (hence the name) beyond recognition.   They're not as nimble as the sprint cars, and there's a lot of bumping and shoving during a race.   It's pretty common to see parts of these come off on the track, due to car-to-car contact.  
 
-Here they are, coming out of the pits, about to enter the track.
+Here they are, coming out of the pits in a cloud of dust, about to enter the track.
 
 ![Modified](/images/ventura_raceway/modifieds.png){: .dropshadow }  
 
