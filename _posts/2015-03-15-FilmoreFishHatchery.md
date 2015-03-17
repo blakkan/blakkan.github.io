@@ -34,7 +34,7 @@ There is a real feeding frenzy when pellets hit the water.
 
 ![Fish eating](/images/filmore_fish_hatchery/fish3.png){: .dropshadow }  
 
-There are a few other sights to see.  There's a variety of equipment to be seen.  
+There's a variety of equipment to be seen.  
 
 ![Pump](/images/filmore_fish_hatchery/pump.png){: .dropshadow }  
 
