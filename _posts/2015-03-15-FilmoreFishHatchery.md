@@ -38,7 +38,7 @@ There's a variety of equipment to be seen.
 
 ![Pump](/images/filmore_fish_hatchery/pump.png){: .dropshadow }  
 
-Just outside the fenced area the outflow has created a small oasis populated by waterfowl.  An eager welcoming committe for any escaped fish, or any other small creatures living on the nutriant flow from the hatchery.
+Just outside the fenced area the outflow has created a small oasis populated by waterfowl.  An eager welcoming committee for any escaped fish, or any other small creatures living on the nutriant flow from the hatchery.
 
 ![Waterfowl](/images/filmore_fish_hatchery/waterfowl.png){: .dropshadow }  
 
