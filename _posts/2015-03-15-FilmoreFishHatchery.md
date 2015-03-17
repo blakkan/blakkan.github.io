@@ -12,7 +12,7 @@ The facility is enclosed by fences and netting to prevent predation by birds of 
 
 ![End view of a row](/images/filmore_fish_hatchery/tanks3.png){: .dropshadow }  
 
-Fish are raised here by the State of California for release into various local reserviors (and various other release sites).   
+Fish are raised here by the State of California for release into various local reserviors (and other release sites).   
 
 ![Fish](/images/filmore_fish_hatchery/fish.png){: .dropshadow }  
 
@@ -30,15 +30,15 @@ As you approach the tank, the fish will rise to the surface in expectation of a 
 
 ![Fish near the surface](/images/filmore_fish_hatchery/fish2.png){: .dropshadow }  
 
-There is a real feeding frenzy when pellets hit the water.  
+And splash in a feeding frenzy when pellets hit the water.  
 
 ![Fish eating](/images/filmore_fish_hatchery/fish3.png){: .dropshadow }  
 
-There's a variety of equipment to be seen.  
+There's a variety of equipment to be seen.  There's no interpretive display, but this looks like an electric water pump with a gasoline (or diesel) backup.   Classic mid-century modern industrial design?  Or weather-worn, junky-looking industrial equipment?  Maybe both.
 
 ![Pump](/images/filmore_fish_hatchery/pump.png){: .dropshadow }  
 
-Just outside the fenced area the outflow has created a small oasis populated by waterfowl.  An eager welcoming committee for any escaped fish, or any other small creatures living on the nutriant flow from the hatchery.
+The other side of the fence the hatchery outflow has created a small oasis.  The waterfowl make an eager welcoming committee for any escaped fish, or any other small creatures living on the nutriant flow from the hatchery.
 
 ![Waterfowl](/images/filmore_fish_hatchery/waterfowl.png){: .dropshadow }  
 
