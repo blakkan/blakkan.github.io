@@ -66,7 +66,7 @@ Here they are, coming out of the pits in a cloud of dust, about to enter the tra
 
 ![Modified](/images/ventura_raceway/modified3.png){: .dropshadow }  
 
-If you want to get closer to the cars, you can buy a pit pass, but there's a also good view of the pit area through the fence.  
+If you want to get closer to the cars, you can buy a pit pass, but there's a also good view of the pit area through the fence.  Notice the trash barrel in the first picture compared to the size of the dwarf cars.
 
 ![Pits](/images/ventura_raceway/pit_scene.png){: .dropshadow }  
 
