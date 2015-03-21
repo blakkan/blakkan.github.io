@@ -6,43 +6,43 @@ categories: jekyll update
 ---
 In Filmore California, at the end of Fish Hatchery Road, one is unsurprised to find a fish hatchery.  Water flows through four cement tanks, each about 1000 feet long, six feet wide, and perhaps 3 feet deep, arranged in two separate pairs.  A single lane of pavement runs along each side of the tanks, with a third lane separating the two pairs.  
 
-The facility is enclosed by fences and netting to prevent predation by birds of prey and other wildlife.  However, there are gaps large enough to admit a few blackbirds.
+The facility is enclosed by fences and netting to prevent predation by birds of prey and other wildlife.  However, there are gaps large enough to admit a few blackbirds.  
 
 ![Oblique view of hatchery](/images/filmore_fish_hatchery/tanks.png){: .dropshadow }  
 
 ![End view of a row](/images/filmore_fish_hatchery/tanks3.png){: .dropshadow }  
 
-Fish are raised here by the State of California for release into various local reserviors (and other release sites).   
+Fish are raised here by the State of California for release into local reserviors (and other release sites).   
 
 ![Fish](/images/filmore_fish_hatchery/fish.png){: .dropshadow }  
 
-There are barriers every few hundred feet along the length of the tanks.  These separate the fish of different ages as they are grown to release size.  
+Barriers every few hundred feet along the length of the tanks separate fish of different size.  
 
 ![Water flowing over separator](/images/filmore_fish_hatchery/tanks2.png){: .dropshadow }  
 
-The fish are fed oily, unpleasant-smelling pellets, stored in these hoppers.  
+These hoppers store the fish foot: oily, unpleasant smelling pellets.  
 
 ![Storage hoppers](/images/filmore_fish_hatchery/hoppers.png){: .dropshadow }  
 
-Visitors may purchase pellets from converted gumball machines (bring dimes- no change is available).  
+Visitors may purchase pellets from converted gumball machines.  Bring dimes- no change is available.  
 
-As you approach the tank, the fish will rise to the surface in expectation of a meal.  
+As you approach the tank, fish rise expectantly to the surface...  
 
 ![Fish near the surface](/images/filmore_fish_hatchery/fish2.png){: .dropshadow }  
 
-And splash in a feeding frenzy when pellets hit the water.  
+...and splash in a feeding frenzy when pellets hit the water.  
 
 ![Fish eating](/images/filmore_fish_hatchery/fish3.png){: .dropshadow }  
 
-There's a variety of equipment to be seen.  There's no interpretive display, but this looks like an electric water pump with a gasoline (or diesel) backup.   Classic mid-century modern industrial design?  Or weather-worn, junky-looking industrial equipment?  Maybe both.
+It wasn't featured in the interpretive kiosk, but this looks like an electric water pump with a gasoline (or diesel) backup.   Classic mid-century industrial design?  Or weather-worn junk?  Maybe both.  
 
 ![Pump](/images/filmore_fish_hatchery/pump.png){: .dropshadow }  
 
-The other side of the fence the hatchery outflow has created a small oasis.  The waterfowl make an eager welcoming committee for any escaped fish, or any other small creatures living on the nutriant flow from the hatchery.
+The hatchery outflow feeds a small oasis just outside the fence.  The waterfowl make an eager welcoming committee for any escaped fish or any other small creatures living on the nutriant flow from the hatchery.  
 
 ![Waterfowl](/images/filmore_fish_hatchery/waterfowl.png){: .dropshadow }  
 
-A few oasis residents have learned to beg through the fence for fish-food pellets.  
+A few oasis residents have learned to beg through the fence for fish food.  
 
 ![Ducks](/images/filmore_fish_hatchery/ducks.png){: .dropshadow }  
 
