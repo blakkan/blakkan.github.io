@@ -20,11 +20,11 @@ Barriers every few hundred feet along the length of the tanks separate fish of d
 
 ![Water flowing over separator](/images/filmore_fish_hatchery/tanks2.png){: .dropshadow }  
 
-These hoppers store the fish foot: oily, unpleasant smelling pellets.  
+These hoppers store the fish food pellets.  
 
 ![Storage hoppers](/images/filmore_fish_hatchery/hoppers.png){: .dropshadow }  
 
-Visitors may purchase pellets from converted gumball machines.  Bring dimes- no change is available.  
+Visitors may purchase the pellets from converted gumball machines.  Bring dimes- no change is available.  They're a bit oily and unpleasant smelling, so you may not want to dispense them directly into your hand.  
 
 As you approach the tank, fish rise expectantly to the surface...  
 

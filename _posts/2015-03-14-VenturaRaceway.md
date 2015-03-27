@@ -42,9 +42,9 @@ Often various gokarts (and even dwarf cars) are offered for sale immediately aft
 
 ![Gokart on wheeled cart](/images/ventura_raceway/gokart_cart.png){: .dropshadow }  
 
-These are the Sprint Cars.   These are specially designed for short dirt tracks.  Like most dirt-track events, these are intended to skid around the turns.  They would be more dangerous if they actually achieved traction. It's almost more like snowmobiling or skiing than ordinary driving.  In many of the pictures you'll see the front wheels of the cars "crossed up" as they take the turns in this skidding manner.  
+Sprint Cars are designed for short dirt tracks.  Like most dirttrack vehicles, these are intended to skid around the turns.  They would be more dangerous if they achieved traction (and the track is periodically wet down during the event to keep it muddy and slipery). It's more like snowmobiling or skiing than ordinary driving.  In many of the pictures you'll see the front wheels of the cars "crossed up" as they take the turns in this skidding manner.  
 
-As the track announcer said, Sprint Cars are made to do two things- go fast and turn left.   They need to be push-started by tow trucks equiped with special front bumpers.  Notice the odd rear bumpers.   They're for push-starting, not driver protection.  Some other types of Sprint Cars have a large wing attached to the top of the car, for increased traction.   The winged cars usually aren't the type raced at Ventura Raceway.
+As the track announcer said, Sprint Cars are made to do two things- go fast and turn left.   They need to be push-started by tow trucks equiped with special front bumpers.  Notice the odd rear bumpers designed for the push-start.  Other classes of Sprint Cars have a large wing attached to the top of the car, for increased downforce on the wheels.   The winged cars aren't usually raced at Ventura Raceway.  
 
 ![Sprint cars](/images/ventura_raceway/sprint.png){: .dropshadow }  
 
