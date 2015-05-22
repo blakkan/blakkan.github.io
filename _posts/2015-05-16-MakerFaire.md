@@ -33,7 +33,7 @@ Not all the contraptions were of monumental scale...
 And there was food.  In the finest county fair tradition.  
 ![Meat on grill](/images/maker_faire_2015/meat.png){: .dropshadow }  
 
-The sun of this giant orrery (there's word you don't get to use every day) was spouting flaming gas.  
+The sun of this giant orrery (there's a word you don't get to use every day...) was spouting flaming gas.  
 ![Oblique view of hatchery](/images/maker_faire_2015/solar_system.png){: .dropshadow }  
 
 Interesting mode of trasit.  
@@ -45,7 +45,8 @@ There were also presentations.  This one was by a toy designer.   One of his pro
 And more food.  
 ![Lemon](/images/maker_faire_2015/lemon.png){: .dropshadow }  
 
-Glassblowing demonstration.  I'd like to say this was a sophisticated, artistic use of black and white imagery.  But in fact, I'd accidentally set the cell phone camera to black and white.  
+Glass blowing demonstration.  I'd like to say this was a sophisticated, artistic use of black and white imagery.  But in fact, I'd accidentally set the cell phone camera to black and white.  And photoshopped back in a spot of color just for fun.  
+
 ![Glass blowing](/images/maker_faire_2015/glass_blowing.png){: .dropshadow }  
 
 Alongside the glass blowing, they were demonstrating how to forge and quench steel knives.  It was pretty impressive stuff, especially considering they were promoting their summer camp for children.  One wonders about the other activities held at that camp.  Probably much cooler than canoe races.  
