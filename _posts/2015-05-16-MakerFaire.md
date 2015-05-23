@@ -36,7 +36,7 @@ And there was food.  In the finest county fair tradition.
 The sun of this giant orrery (there's a word you don't get to use every day...) was spouting flaming gas.  
 ![Oblique view of hatchery](/images/maker_faire_2015/solar_system.png){: .dropshadow }  
 
-Interesting mode of trasit.  
+Interesting mode of transit.  
 ![Trike](/images/maker_faire_2015/trike.png){: .dropshadow }  
 
 There were also presentations.  This one was by a toy designer.   One of his products was an *Alien Autopsy* toy from which children could scoop out writhing, edible internal organs.  He mentiond that boys, rather than girls, were the primary customers.  
