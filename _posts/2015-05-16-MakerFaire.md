@@ -22,7 +22,7 @@ I didn't understand what this had to do with hip, do-it-yourself technology.  Bu
 
 ![Gokart](/images/maker_faire_2015/little_car.png){: .dropshadow }  
 
-The operator of this machine was inside the chest, behind the large disc.  The arms would rise and shoot flames from the fingertips.  I was reminded of Diego Rivera's *Man at the Crossroads* mural.  
+The operator of this machine was inside the chest, behind the large disc, controlling it via levers.  The arms would rise and shoot flames from the fingertips.  I was reminded of Diego Rivera's *Man at the Crossroads*.  
 ![Big robot](/images/maker_faire_2015/silver.png){: .dropshadow }  
 
 Not all the contraptions were of monumental scale...  
