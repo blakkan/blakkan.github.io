@@ -4,7 +4,7 @@ title:  "Memorial Day Weekend"
 date:   2015-05-24 15:10:26
 categories: jekyll update
 ---
-Down to the beach, setting up for photos of S's art project.  Of course we took along the dog, to play fetch and generally interfere with the photography.  
+Down to the beach, setting up for photos of Stephanie's art project.  Of course we took along the dog, to play fetch and generally interfere with the photography.  
 
 Looking for that ball in the surf...  
 
@@ -28,5 +28,20 @@ Exposure of this one is totally wrong.   But I still like it.
 Stephanie setting up the art installation.  
 
 ![Woman placing geometric models on the seashore](/images/memorial_day_2015/setting_art.png){: .dropshadow }  
+
+Later in the weekend, driving through grimes canyon (California Highway 23, between the cities of Moorpark and Filmore), found these cactus in flower beside the road.  
+
+![Cactus flower](/images/memorial_day_2015/roadside_cactus_flower.png)  
+
+![Cactus flower](/images/memorial_day_2015/roadside_cactus_flower2.png)  
+
+The canyon twists through a deposit of sand, showing various deposition strata.  
+
+![Sandstone with horizontal stripes](/images/memorial_day_2015/grimes_canyon_strata.png)
+
+This material is very soft; people carve various temporary engravings into them.   Some simple grafitti, some elaborate murals.   (Hard to get photos of many of them; there aren't a lot of safe places to pull over on this section of road. This photo isn't representative of the more creative ones.) Folk art or vandalism?  Hard to say... But each winter's rains erase most of them.  
+
+![Sandstone with incised letters](/images/memorial_day_2015/grimes_canyon.png)
+
   
 
