@@ -36,7 +36,7 @@ The park is part of a missle test facility.  Part of the testing includes attack
 
 ![Yellow Missle](/images/missle_park/yellow.png){: .dropshadow }  
 
-The facility is also defending the streets of Pasadena.  Don't be running any stop lights in that town...  (Picture from file, taken some years ago at a parade.  The large "Tomahawk" cruise missle on the truck is not among those on display at missle park.)  
+The facility is also defending the streets of Pasadena.  Don't be running any stop lights in that town...  (Picture from my file, taken some years ago at a parade.  The large "Tomahawk" cruise missle on the truck is not among those on display at missle park.)  
 
 ![Missles on truck in a parade](/images/missle_park/navy_on_parade.png){: .dropshadow }  
 

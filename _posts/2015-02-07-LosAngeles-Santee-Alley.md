@@ -44,6 +44,8 @@ Lots of bootleg DVDs on offer for $5 each.   These were of movies still in theat
 
 ![Sidewalk seller](/images/los_angeles_santee_alley/dvds_for_sale.png){: .dropshadow }  
 
+Creepy-cute dolls for sale.  
+
 ![Dolls on display](/images/los_angeles_santee_alley/dolls.png){: .dropshadow }  
 
 ![Three mannequins](/images/los_angeles_santee_alley/three_suits.png){: .dropshadow }  
