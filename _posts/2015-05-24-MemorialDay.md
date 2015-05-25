@@ -6,7 +6,10 @@ categories: jekyll update
 ---
 Down to the beach, setting up for photos of S's art project.  Of course we took along the dog, to play fetch and generally interfere with the photography.  
 
-![Dog looing for ball in surf](/images/memorial_day_2015/dog_in_surf_1.png){: .dropshadow }  
+Looking for that ball in the surf...  
+
+
+![Dog looking for ball in surf](/images/memorial_day_2015/dog_in_surf_1.png){: .dropshadow }  
 
 And he's got it.  
 
