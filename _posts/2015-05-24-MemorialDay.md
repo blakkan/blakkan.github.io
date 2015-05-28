@@ -35,7 +35,7 @@ Later in the weekend, driving through Grimes Canyon (California Highway 23, betw
 
 ![Cactus flower](/images/memorial_day_2015/roadside_cactus_flower2.png)  
 
-The canyon winds through a deposit of sand, showing various deposition strata (This is a view of about 16 vertical feet.)  
+The canyon winds through a deposit of sand, showing various deposition strata (This is a view of about 10 vertical feet.)  
 
 ![Sandstone with horizontal stripes](/images/memorial_day_2015/grimes_canyon_strata.png)  
 
