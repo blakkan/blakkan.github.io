@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Portraits"
-date:   2015-08 02 15:58:34
+date:   2015-08-02 15:58:34
 categories: jekyll update
 ---
 We just bought a new ringlight for the camera, so took a few pictures in the house.  
