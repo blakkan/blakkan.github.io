@@ -39,7 +39,7 @@ The sun of this giant orrery (there's a word you don't get to use every day...) 
 Interesting mode of transit.  
 ![Trike](/images/maker_faire_2015/trike.png){: .dropshadow }  
 
-There were also presentations.  This one was by a toy designer.   One of his products was an *Alien Autopsy* toy from which children could scoop out writhing, edible internal organs.  He mentiond that boys, rather than girls, were the primary customers.  
+There were also presentations.  This one was by a toy designer.   One of his products was an *Alien Autopsy* toy from which children could scoop out writhing, edible internal organs.  He mentioned that boys, rather than girls, were the primary customers.  
 ![Speaker on stage](/images/maker_faire_2015/make.png){: .dropshadow }  
 
 And more food.  
