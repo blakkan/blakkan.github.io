@@ -69,10 +69,23 @@ Leonard Knight (1931-2014), creator of Salvation Mountain, at home inside the mo
 *The Lord is near to all who call on him, to all who call on him with sincerity.*  
 ![An elderly man sits in front of a mural](/images/legacy/LeonardKnight.gif){: .dropshadow }
 
-The dog, having subdued Stephanie, turns his atttention to the tree  
+The dog, having subdued Stephanie, turns his atttention to the tree.  
 ![A dog leaps upon a woman sitting next to a Christmas tree](/images/legacy/dog_vs_tree.gif){: .dropshadow }
 
+Atlantic city.  
+
+![Elevated view of boardwalk](/images/legacy/atlantic_city_boardwalk1.png){: .dropshadow }  
+
+![Elevated view of boardwalk](/images/legacy/atlantic_city_boardwalk2.png){: .dropshadow }  
+
+Traverse City, Michigan ("Cherry Capital").  
+
+![Garland of cherries on a tree branch](/images/legacy/cherry_garland.png){: .dropshadow }  
+
 John & Stephanie, sunset by the Pacific Ocean  
+
 ![A couple stands infront of an oceanside cliff](/images/legacy/sunset.gif){: .dropshadow }
+
+
 
 

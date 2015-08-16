@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Visiting Santa Cruz on a sunny day, while hanging out with a friend at Cafe El Palomar in Santa Cruz.  Nice beach, good tacos.  
 
-On our friend's sailboat, Stephanie takes the helm, while we were safely moored in the slip.
+On our friend's sailboat.
 
 ![Woman in sailboat](/images/santa_cruz/Stephanie1.png){: .dropshadow }  
 
