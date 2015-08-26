@@ -24,7 +24,7 @@ Then into Death Valley proper.  A spectacular view can be had from the *Dante's 
 Stephanie taking some shots from Dante's View  
 ![Stephanie shooting photos](/images/death_valley/StephanieWithCamera.png){: .dropshadow }
 
-There are lots of things to see in the valley- old mining operations, salt flats, sand dunes, etc.  But Death Valley is really about the rocks.   Lots and lots of rocks.  If you like rocks, this is your place.  (But take note:  January and February the best months to visit.  It has reached 134F in the summertime.)  
+There are lots of things to see in the valley- old mining operations, salt flats, sand dunes, etc.  But Death Valley is really about the rocks.   Lots and lots of rocks.  If you like rocks, this is your place.  (But take note:  January and February are the best months to visit.  It has reached 134F in the summertime.)  
 
 ![Death Valley Scene](/images/death_valley/DeathValley4.png){: .dropshadow }  
 
