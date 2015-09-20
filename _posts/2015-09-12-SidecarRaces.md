@@ -46,7 +46,7 @@ Even closer on the following lap...
   
 ![Motorcycle with sidecar on track](/images/2015-09-19_sidecar_races/sideCar7.png){: .dropshadow }  
 
-The second rider is called "The Monkey".  
+The second rider in sidecar racing is called "The Monkey."  
 
 ![Motorcycle with sidecar on track](/images/2015-09-19_sidecar_races/sideCar8.png){: .dropshadow }  
   
