@@ -1,8 +1,11 @@
 source 'https://rubygems.org'
-ruby '2.2.0'
 gem 'thin'
 gem 'rack'
+gem 'json'
+gem 'minitest'
+gem 'i18n'
 gem 'jekyll'
 gem 'github-pages'
 gem 'kramdown'
+gem 'RedCloth'
 

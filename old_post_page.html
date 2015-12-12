@@ -2,10 +2,12 @@
 layout: page
 ---
 
-<h1 class="page-heading">Most recent blog posts:</h1>
+<div class="home">
 
-<ul class="post-list">
-{% for post in site.posts limit:3 %}
+  <h1 class="page-heading">Older Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts offset:3 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -14,12 +16,9 @@ layout: page
         </h2>
       </li>
 
-{% endfor %}
-</ul>
 
-<h1 class="page-heading">Other Stuff:</h1>
+    {% endfor %}
 
-<h3>
-<a href="/old_post_page.html">Older blog posts</a>
-</h3>
+  </ul>
 
+</div>
