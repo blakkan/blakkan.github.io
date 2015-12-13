@@ -1,8 +1,9 @@
 <header class="site-header">
 
   <div class="wrapper">
+    <a class="site-title" href="{{ site.baseurl }}/">
     {% if page.image %}<img class="site-title" src="{{ page.image }}">{% else %}<img class="site-title" src="/images/logo_image_small.png">{% endif %}
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    {{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
