@@ -49,6 +49,14 @@ Even closer on the following lap...
 The second rider in sidecar racing is called "The Monkey."  
 
 ![Motorcycle with sidecar on track](/images/2015-09-19_sidecar_races/sideCar8.png){: .dropshadow }  
+
+A few pictures from the end of the evening; including this accidental repoduction of the state flag of South Carolina.
+
+![Palm tree and crescent moon](/images/2015-09-19_sidecar_races/palmAndMoon.png){: .dropshadow }  
+
+![Palm tree lit from below](/images/2015-09-19_sidecar_races/palm.png){: .dropshadow }  
+
+![People at outdoor beer stand](/images/2015-09-19_sidecar_races/bar.png){: .dropshadow }  
   
 
 
