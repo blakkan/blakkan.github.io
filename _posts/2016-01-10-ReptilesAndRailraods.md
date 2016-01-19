@@ -54,7 +54,7 @@ And on the way out of the hall, another attraction.  An outdoor "Garden scale" r
 
 ![Train display detail](/images/2016-01-10_reptiles/engine.png){: .dropshadow }  
 
-And the tram awaits, to carry us all in comfort back to our automobiles
+And the tram awaits, to carry us all in comfort and safety back to our automobiles
 
 ![Tram](/images/2016-01-10_reptiles/tram.png){: .dropshadow }  
 
