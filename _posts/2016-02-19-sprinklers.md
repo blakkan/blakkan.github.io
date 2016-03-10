@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interstate-5 rest stop: sprinkler heads"
+title:  "Interstate-5 rest stop: patterns (sprinkler heads)"
 date:   2016-02-19 15:23:19
 categories: jekyll update
 ---
