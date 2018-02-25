@@ -13,6 +13,13 @@ Just a temporary entry, This is video for W241 project.
 Your browser does not support the video tag.
 </video>  
 
+Just a temporary entry, This is video for W241 project.  
+
+<video controls="true" width="90%">
+  <source src="/video/cattle02.webm" type="video/webm">
+  <source src="/video/cattle02.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
 
 Just a temporary entry, This is video for CS169.2 Homework 4.  
 
