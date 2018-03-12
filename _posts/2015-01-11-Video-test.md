@@ -19,7 +19,7 @@ Just a temporary entry, This is the pasture video for W241 project.
   <source src="/video/Pasture05.mp4" type="video/mp4">
   <source src="/video/Pasture05.webm" type="video/webm">
 Your browser does not support the video tag.
-</video> 
+</video>
 
 Just a temporary entry, This is the control video for W241 project.  
 
@@ -27,38 +27,4 @@ Just a temporary entry, This is the control video for W241 project.
   <source src="/video/Irrigation05.mp4" type="video/mp4">
   <source src="/video/Irrigation05.webm" type="video/webm">
 Your browser does not support the video tag.
-</video> 
-
-Just a temporary entry, This is video for CS169.2 Homework 4.  
-
-<video controls="true" width="90%">
-  <source src="/video/HW4.mp4" type="video/mp4">
-  <source src="/video/HW4.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>  
-
-Just a temporary entry, This is video for CS169.2 Homework 3.  
-
-<video controls="true" width="90%">
-  <source src="/video/HW3.mp4" type="video/mp4">
-  <source src="/video/HW3.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>  
-
-
-Just a temporary entry, This is video for CS169.2 Homework 2.  
-
-<video controls="true" width="90%">
-  <source src="/video/HW2.mp4" type="video/mp4">
-  <source src="/video/HW2.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>  
-
-
-Just a temporary entry, This is video for CS169.2 Homework 1.  
-
-<video controls="true" width="90%">
-  <source src="/video/hw1.mp4" type="video/mp4">
-  <source src="/video/hw1.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>  
+</video>
