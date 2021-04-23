@@ -48,8 +48,8 @@ Detail of the gladiators, about to enter the ring.  Very Hemmingwayesque.
 
 ![Detail of cattle heads](/images/2019-06-15-county-fair/rodeo-3.jpeg){: .dropshadow }
 
-And the food!  There was a new thing this year- Natchos built on a substrate of
-tater-tots intead of corn chips.  It's sweeping the country, apparently.  And
+And the food!  There was a new thing this year- Nachos built on a substrate of
+tater-tots intead of the usual corn chips.  It's sweeping the country, apparently.  And
 an absolute gut-bomb.  They call them "Tachos" (Tater-tot Nachos.)
 
 ![Tachos](/images/2019-06-15-county-fair/food-1.jpeg){: .dropshadow }
