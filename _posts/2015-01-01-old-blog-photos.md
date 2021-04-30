@@ -22,7 +22,7 @@ California Poppies in California's Antalope Valley California Poppy Reserve
 A suddenly appearing dashboard ornament  
 ![Cat on a dashboard](/images/legacy/SuddenDashboard.gif){: .dropshadow }
 
-Camillia  
+Camellia  
 ![Pinkish-Purple flower](/images/legacy/Camillia.gif){: .dropshadow }
 
 We eventually took the cellphone away from him.  He was using too much of our data plan.  
@@ -30,6 +30,14 @@ We eventually took the cellphone away from him.  He was using too much of our da
 
 This was a very good day (Photo taken by Ellen)  
 ![Bride and groom standing at alter](/images/legacy/ThisWasAGoodDay.gif){: .dropshadow }
+  
+![Bride and groom standing at alter](/images/legacy/31-JBWedding033.jpg){: .dropshadow }
+
+![Ring](/images/legacy/45-Blakkan-25.jpg){: .dropshadow }
+
+Mother and son.
+
+![Mother and son](/images/legacy/27-JBWedding003.jpg){: .dropshadow }
 
 A very unexpected guest in our front yard. This resulted in many urgent consultations.  
 ![Tortoise](/images/legacy/Tortoise.gif){: .dropshadow }
