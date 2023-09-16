@@ -8,4 +8,5 @@ gem 'jekyll'
 gem 'github-pages'
 gem 'kramdown'
 gem 'RedCloth'
-
+gem 'nokogiri'
+gem 'webrick'
