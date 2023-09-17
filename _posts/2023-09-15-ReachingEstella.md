@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reaching Estrella"
+title:  "Reaching Estella"
 date:   2023-09-15 12:34:56
 categories: jekyll update
 ---
