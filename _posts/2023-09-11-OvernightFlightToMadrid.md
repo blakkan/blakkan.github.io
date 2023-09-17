@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 Flight from Washington Dulles to Madrid.
 
-Uneventfull red-eye flight, except for some leaked
-liquid in the overhead.  Wet bag, wet cloths.
+Uneventful red-eye flight, except for some leaked
+liquid in the overhead.  Wet bag, wet clothes.
