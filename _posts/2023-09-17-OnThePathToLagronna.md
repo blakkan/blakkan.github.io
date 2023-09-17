@@ -36,3 +36,11 @@ was a nice thing to see after walking 14 miles.
 A very abundant prickly pear
 
 ![Cactus](/images/spain/2023-09-17/image5.jpeg){: .dropshadow }
+<br><br><br>
+Sad state of feet.  Blisters
+
+![Blistered Feet](/images/spain/2023-09-17/blisters.jpeg){: .dropshadow }
+<br><br><br>
+Fortunately the night hotelier was able to provide treatment.
+
+![Medication](/images/spain/2023-09-17/medication.jpeg){: .dropshadow }
