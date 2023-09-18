@@ -3,6 +3,7 @@ layout: post
 title:  "Reaching Estella"
 date:   2023-09-15 12:34:56
 categories: jekyll update
+topic: spain
 ---
 Great day.  Second full day walking,  Bought walking sticks.  Also got to 
 cell phone store, they showed me how to turn internet service

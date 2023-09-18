@@ -4,10 +4,10 @@ layout: page
 
 <div class="home">
 
-  <h1 class="page-heading">Older Posts</h1>
+  <h1 class="page-heading">All posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts offset:3 %}
+    {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Solo walking"
 date:   2023-09-16 12:34:56
 categories: jekyll update
+topic: spain
 ---
 Best day yet;  Walk was through open, empty country.  No fellow walkers this day.  
 
