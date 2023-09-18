@@ -44,3 +44,14 @@ Sad state of feet.  Blisters
 Fortunately the night hotelier was able to provide treatment.
 
 ![Medication](/images/spain/2023-09-17/medication.jpeg){: .dropshadow }
+<br><br><br>
+The town square.
+
+![Town Square](/images/spain/2023-09-17/town_square.jpeg){: .dropshadow }
+<br><br><br>
+A tree had lost a branch in the square, so the fire department brought their ladder.
+
+![Town Square and People](/images/spain/2023-09-17/town_square2.jpeg){: .dropshadow }
+<br><br><br>
+Dog park.  On the small side.
+![Fenced dog area](/images/spain/2023-09-17/dog_park.jpeg){: .dropshadow }

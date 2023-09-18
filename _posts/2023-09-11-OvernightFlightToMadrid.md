@@ -8,3 +8,7 @@ Flight from Washington Dulles to Madrid.
 
 Uneventful red-eye flight, except for some leaked
 liquid in the overhead.  Wet bag, wet clothes.
+
+Landed in Madrid near dawn on September 12.
+
+![Dawn viewed from airplane window](/images/spain/2023-09-12/IMG_3011.jpg){: .dropshadow }
