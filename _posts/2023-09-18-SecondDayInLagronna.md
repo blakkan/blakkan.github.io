@@ -32,3 +32,7 @@ Also, the man-bag is very common, not just with trekkers.  Note the man
 in black with the color co-ordinated bag.
 
 ![Man with black man-bag](/images/spain/2023-09-18/image3.jpeg){: .dropshadow }
+<br><br><br>
+By next morning feet were much better.
+
+![Feet with healing blisters](/images/spain/2023-09-19/healingfeet.jpeg){: .dropshadow }
