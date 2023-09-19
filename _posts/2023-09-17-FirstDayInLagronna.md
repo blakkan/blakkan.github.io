@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Day in Lagronna"
+title:  "First Day in Lagro&ntilde;a"
 date:   2023-09-17 12:34:57
 categories: jekyll update
 topic: spain

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second Day in Lagronna"
+title:  "Second Day in Lagro&ntilde;a"
 date:   2023-09-18 12:34:56
 
 categories: jekyll update

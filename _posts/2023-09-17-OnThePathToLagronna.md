@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sansol: On The Path to Lagronna"
+title:  "Sansol: On The Path to Lagro&ntilde;a"
 date:   2023-09-17 12:34:56
 categories: jekyll update
 topic: spain
