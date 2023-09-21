@@ -5,6 +5,7 @@ date:   2023-09-18 12:34:56
 
 categories: jekyll update
 topic: spain
+meltdown: Lots of shady characters in this part of town.
 ---
 Feet better, looking forward to getting back on the trail.
 

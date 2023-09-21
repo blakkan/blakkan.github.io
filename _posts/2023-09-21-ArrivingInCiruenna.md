@@ -12,7 +12,7 @@ I am at last reunited with my larger backpack, and have arranged to send
 it to my next stop.  Still having issues with payment for the service,
 however.
 
-Heading out of Najera very early.  Awakened too early by two Spanish
+Heading out of N&aacute;jera very early.  Awakened too early by two Spanish
 ladies talking loudly
 and turning on the room light.
 

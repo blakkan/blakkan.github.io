@@ -5,6 +5,7 @@ date:   2023-09-19 12:34:54
 
 categories: jekyll update
 topic: spain
+meltdown: Can't get anywere with bag transfer service, to get bag back.
 ---
 On the trail from Lagro&ntilde;a to Navarrete.  Open spaces, many
 vinyards
