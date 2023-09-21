@@ -8,7 +8,7 @@ topic: spain
 ---
 
 Only 576 kilometers to go... This sign is at a famous vinyard entering
-Navarete.  Note the new jacket around my waist.  Weather has been
+Navarrete.  Note the new jacket around my waist.  Weather has been
 getting colder.  Note also the footwear replacing the hiking
 shoes in which I've been blistering.  Recently the trail has been clay
 instead of gravel and is *much* nicer to walk on.  (Perhaps the clay
@@ -16,7 +16,7 @@ soil is the reason this is a grape-growing region.)
 
 ![Stephanine and sign](/images/spain/2023-09-20/image5.jpeg){: .dropshadow }
 <br><br><br>
-The grape harvest is underway in Navrette.
+The grape harvest is underway in Navrrete.
 
 ![Truck unloading grapes](/images/spain/2023-09-20/image0.jpeg){: .dropshadow }
 
