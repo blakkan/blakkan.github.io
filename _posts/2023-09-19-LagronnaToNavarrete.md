@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Lagro&ntilde;a to Navarette"
+title:  "Lagro&ntilde;a to Navarrete"
 date:   2023-09-19 12:34:54
 
 categories: jekyll update
 topic: spain
 ---
-On the trail from Lagro&ntilde;a to Navarette.  Open spaces, many
+On the trail from Lagro&ntilde;a to Navarrete.  Open spaces, many
 vinyards
 
 ![Road and hills](/images/spain/2023-09-20/image4.jpeg){: .dropshadow }

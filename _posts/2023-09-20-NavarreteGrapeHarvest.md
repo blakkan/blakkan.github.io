@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Navrette Grape Harvest"
+title:  "Navarrete Grape Harvest"
 date:   2023-09-20 12:34:56
 
 categories: jekyll update
@@ -8,10 +8,10 @@ topic: spain
 ---
 
 Only 576 kilometers to go... This sign is at a famous vinyard entering
-Navrette.  Note the new fleece jacket around my waist.  Weather has been
+Navarete.  Note the new jacket around my waist.  Weather has been
 getting colder.  Note also the footwear replacing the hiking
 shoes in which I've been blistering.  Recently the trail has been clay
-instead of gravel and *much* nicer to walk on.  (Perhaps the clay
+instead of gravel and is *much* nicer to walk on.  (Perhaps the clay
 soil is the reason this is a grape-growing region.)
 
 ![Stephanine and sign](/images/spain/2023-09-20/image5.jpeg){: .dropshadow }
@@ -36,3 +36,7 @@ transfer service, and hope to have my larger backpack back soon.  Until then I'm
 managing with my smaller day bag.
 
 ![Small rucksack](/images/spain/2023-09-20/image6.jpeg){: .dropshadow }
+<br><br><br>
+Route so far in the North of Spain.
+
+![Map](/images/spain/2023-09-20/map0.png){: .dropshadow}
