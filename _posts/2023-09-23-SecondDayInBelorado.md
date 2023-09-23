@@ -8,11 +8,19 @@ topic: spain
 ---
 
 Stayed a second day in Belorado, as I couldn't get lodging resevations at
-my next stop (all booked up.)  Tommorow planning to make it to the outskirts
-of Burgos, which is the 1/3 point.  The whole trail divides into approximate
-thirds, the first being Pamplona to Burgos, Burgos to Le&oacute;n, and Le&oacute;n to Santiago de
+my next stop (all booked up.)  This is unfortunate, as about 15 young kids have
+arrived at my lodging along with their mothers, and these kids are LOUD.  Also,
+the beds here are very short, and my feet are hanging off.
+
+Tommorow I expect to make it to the outskirts
+of Burgos, which is the 1/3 point.  Will be staying there at the "Boomerang Cottage"
+bed and breakfast.  (Will see if it's Australia themed.)
+
+The trail divides into approximate
+thirds, the first being Pamplona to Burgos, then Burgos to Le&oacute;n, and finally
+Le&oacute;n to Santiago de
 Compostela (With the middle third actually being a little shorter.)  Here's a map
-(zoom for detail)
+of my progress (zoom for detail.)
 
 ![Map](/images/spain/2023-09-23/map.png){: .dropshadow }
 <br><br><br>
