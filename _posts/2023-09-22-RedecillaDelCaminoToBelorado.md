@@ -24,6 +24,7 @@ seven and nine pm.
 <br><br><br>
 During the 1400s-1500s people would put a family crest on their buildings.  This
 one may be depicting the papal triple-crown, with angels holding the keys.
+It resembles the flag of Vatican City and Papal coats of arms.
 
 ![Crest](/images/spain/2023-09-22/image1.jpeg){: .dropshadow }
 <br><br><br>
