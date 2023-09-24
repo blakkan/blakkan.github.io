@@ -37,11 +37,12 @@ This is the super small (Population 60) village of Curia.
 ![City building](/images/spain/2023-09-22/image4.jpeg){: .dropshadow }
 <br><br><br>
 And more photos of small-town Spain.
-![Iron statue](/images/spain/2023-09-22/image5.jpeg){: .dropshadow }
 
-![Iron statue](/images/spain/2023-09-22/image6.jpeg){: .dropshadow }
+![Building with tower](/images/spain/2023-09-22/image5.jpeg){: .dropshadow }
 
-![Iron statue](/images/spain/2023-09-22/image7.jpeg){: .dropshadow }
+![Blue Building](/images/spain/2023-09-22/image6.jpeg){: .dropshadow }
+
+![Building](/images/spain/2023-09-22/image7.jpeg){: .dropshadow }
 <br><br><br>
 My feet are generally improving but occaisionally one blister will
 give trouble.  The various bandages or moleskins are not too effective
