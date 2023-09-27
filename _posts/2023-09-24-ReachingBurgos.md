@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reaching Burgos"
+title:  "Reaching outskirts of Burgos"
 date:   2023-09-24 12:34:56
 
 categories: jekyll update
