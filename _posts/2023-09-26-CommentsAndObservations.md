@@ -77,7 +77,10 @@ your lodging.  You're walking 16 miles to make 8 miles of progress!
 (like Jacotrans) are very helpful.
 Needing just a small day bag on the trail, rather than 15 or more
 pounds of laundry and other stuff is a major benefit for the low cost
-of 6 to 9 euros per day.
+of 6 to 9 euros per day.  One downside- as you go from province to
+province, you may find that some hotels do not have pickup by your
+preferred service.  You may have to rely on a different service,
+which may not take cash (and requires an online request for pickup.)
 
 11. ATM "Currency Conversion."  It's not unique to the camino, but some
 ATMs will offer to let the ATM do the Dollar to Euro conversion.
