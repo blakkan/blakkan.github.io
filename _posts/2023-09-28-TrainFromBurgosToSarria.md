@@ -11,6 +11,7 @@ topic: spain
 Took the train from Burgos to Sarria.  (Sarria is near the 100km
 mark, the closest you can start from to get the credential.)
 
+![Map](/images/spain/2023-09-29/map.png){: .dropshadow }
 
 ![Street scene](/images/spain/2023-09-29/image28-08a.jpeg){: .dropshadow }
 
@@ -33,6 +34,7 @@ mark, the closest you can start from to get the credential.)
 The view from the window.
 
 <video controls="true" width="90%">
-  <source src="/images/spain/2023-09-29/Video.mov" type="video/mp4">
+  <source src="/images/spain/2023-09-29/Video.webm" type="video/webm">
+  <source src="/images/spain/2023-09-29/Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
