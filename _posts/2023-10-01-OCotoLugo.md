@@ -14,7 +14,7 @@ Two to three days left to walk.
 
 ![Map](/images/spain/2023-10-01/map.png){: .dropshadow }
 <br><br><br>
-There was a chestnut tree on the trail. I gathered a few near the trail.
+There was a chestnut tree on the trail. I gathered a few.
 
 ![Chestnuts](/images/spain/2023-10-01/first/image0.jpeg){: .dropshadow }
 <br><br><br>
