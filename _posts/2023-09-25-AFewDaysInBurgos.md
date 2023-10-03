@@ -33,3 +33,11 @@ Passing through farmland under blue skies.
 This is where I stayed while in town.
 
 ![Hotel](/images/spain/2023-09-27/image0a.jpeg){: .dropshadow }
+<br><br><br>
+Geese and Magpie.
+
+![Geese](/images/spain/2023-10-03/BurrgosBirds2023_09_25/IMG_3280.jpg){: .dropshadow }
+
+![Geese](/images/spain/2023-10-03/BurrgosBirds2023_09_25/IMG_3281.jpg){: .dropshadow }
+
+![Magpie](/images/spain/2023-10-03/BurrgosBirds2023_09_25/IMG_3282.jpg){: .dropshadow }
