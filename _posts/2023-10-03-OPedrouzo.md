@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O Pedrouzo, one more day to Santiago"
-date:   2023-10-02 12:34:56
+date:   2023-10-03 12:34:56
 
 categories: jekyll update
 topic: spain
