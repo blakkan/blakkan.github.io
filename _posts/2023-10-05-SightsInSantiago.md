@@ -57,3 +57,42 @@ out.  Someone (perhaps hotel cleaners) stole my hoodie and I had to buy a new on
 Dsappointing, but no great hardship.  Here's the replacement.
 
 ![Hoodie](/images/spain/2023-10-05/C/image0R.jpeg){: .dropshadow }
+<br><br><br>
+More sights on my last day in Santiago before taking the train back to Madrid.
+
+![Street scene](/images/spain/2023-10-06/B/image0.jpeg){: .dropshadow }
+
+![Street scene](/images/spain/2023-10-06/B/image1.jpeg){: .dropshadow }
+
+![Street scene](/images/spain/2023-10-06/B/image3.jpeg){: .dropshadow }
+
+![Lodging](/images/spain/2023-10-06/B/image4.jpeg){: .dropshadow }
+
+![Lodging](/images/spain/2023-10-06/B/image5.jpeg){: .dropshadow }
+<br><br><br>
+The manicure and color
+
+![Nails](/images/spain/2023-10-06/B/image6.jpeg){: .dropshadow }
+<br><br><br>
+And the superior European man-bag.  Need to get one of these for a gift.
+
+![Man-bag](/images/spain/2023-10-06/B/image2.jpeg){: .dropshadow }
+<br><br><br>
+A few more scenes, including trash collection. Highly visible in
+their distinctive uniforms, they're a constant presence in the
+downtown areas.  It seems there's a big effort to keep the city
+centers clean.  And they were clean.  Some places in the US could
+perhaps take a lesson from Spain.
+
+There was an outdoor market this day, with the seasonal chestnuts.  And, as ever,
+hikers with walking sticks.
+
+![Trash pickup](/images/spain/2023-10-06/C/image0.jpeg){: .dropshadow }
+
+![Trash pickup](/images/spain/2023-10-06/C/image1.jpeg){: .dropshadow }
+
+![Outdoor market](/images/spain/2023-10-06/C/image3.jpeg){: .dropshadow }
+
+![Chestnuts](/images/spain/2023-10-06/C/image2.jpeg){: .dropshadow }
+
+![Hikers](/images/spain/2023-10-06/C/image4.jpeg){: .dropshadow }
