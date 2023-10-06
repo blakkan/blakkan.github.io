@@ -12,7 +12,8 @@ Back in Madrid for a few days prior to my flight back to the US.
 
 Here's a traditional Madrid breakfast.  Good toasted bread with a fresh puree of
 tomato, salt, and olive oil.  Very simple, but delicious and
-refreshing (and a nice break from the potato frittata breakfasts on the camino.)
+refreshing.  It was a nice break from the constant diet of
+potatto frittata breakfasts on the camino.
 
 ![Breakfast](/images/spain/2023-10-06/A/image0.jpeg){: .dropshadow }
 <br><br><br>
@@ -23,8 +24,8 @@ However, it was conviently located to the main downtown area of Madrid.
 But it's showing some wear and tear for this price (note worn-through
 toilet seat.)
 
-I suppose it was charging a premium for the location (but I was only
-intersted in basic accomodations.)
+I suppose it was charging a premium for the location, but I was only
+interested in basic accomodations.
 
 ![Hotel Lobby](/images/spain/2023-10-06/A/image1.jpeg){: .dropshadow }
 
