@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Back in Madrid"
+title:  "Spain trip: Back in Madrid"
 date:   2023-10-06 12:34:56
 
 categories: jekyll update

@@ -2,13 +2,12 @@
 layout: page
 ---
 
-<h1 class="page-heading">Spain blog posts:</h1>
+<div class="home">
 
-<ul class="post-list">
+  <h1 class="page-heading">All posts</h1>
 
-{% assign spain_posts = site.posts | where: "topic", "spain" %}
-
-{% for post in spain_posts  %}
+  <ul class="post-list">
+    {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -17,12 +16,9 @@ layout: page
         </h2>
       </li>
 
-{% endfor %}
-</ul>
 
-<h1 class="page-heading">Other Stuff:</h1>
+    {% endfor %}
 
-<h3>
-<a href="/old_post_page.html">All posts (Spain plus others)</a>
-</h3>
+  </ul>
 
+</div>
