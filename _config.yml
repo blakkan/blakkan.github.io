@@ -13,3 +13,7 @@ markdown: kramdown
 
 exclude: ["vendor"]
 
+collections:
+  spain_trip_reports:
+    output: true
+    permalink: /spain_trip_report/:name

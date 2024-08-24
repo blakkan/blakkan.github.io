@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spain trip: Overnight FlightTo Madrid"
+title:  "Overnight flight from DC to Madrid"
 date:   2023-09-11 12:34:56"
 categories: jekyll update
 topic: spain

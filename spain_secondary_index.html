@@ -1,0 +1,28 @@
+---
+layout: spain_trip_report
+---
+
+<h1 class="page-heading">Spain blog posts:</h1>
+
+<ul class="post-list">
+
+
+
+{% for post in spain_trip_reports  %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+
+{% endfor %}
+</ul>
+
+<h1 class="page-heading">Other Stuff:</h1>
+
+<h3>
+<a href="/old_post_page.html">All posts (Spain plus others)</a>
+</h3>
+
